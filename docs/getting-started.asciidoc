@@ -237,4 +237,4 @@ $response = $client->indices()->delete($params);
 [discrete]
 == Further reading
 
-* Use <<client-helpers>> for a more confortable experience with the APIs.
+* Use <<client-helpers>> for a more comfortable experience with the APIs.
